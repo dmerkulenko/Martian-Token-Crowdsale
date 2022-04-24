@@ -14,17 +14,17 @@ To review the functionality of the KaseiCoin crowdsale, I have:
 
 2. Tested the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
 
-![Buying new tokens](KaseiCoin Crowdsale Results/Deployment_1.png)
+![Buying new tokens](KaseiCoin_Crowdsale_Results/Deployment_1.png)
 
-![Buying New Tokens 2](KaseiCoin Crowdsale Results/Deployment_2.png)
+![Buying New Tokens 2](KaseiCoin_Crowdsale_Results/Deployment_2.png)
 
-![Checking the Balance](KaseiCoin Crowdsale Results/Working_functions.png)
+![Checking the Balance](KaseiCoin_Crowdsale_Results/Working_functions.png)
 
 3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
 
-![Minted Tokens](KaseiCoin Crowdsale Results/Add_minter.png)
+![Minted Tokens](KaseiCoin_Crowdsale_Results/Add_minter.png)
 
-![Checking the Balance](KaseiCoin Crowdsale Results/Working_functions_2.png)
+![Checking the Balance](KaseiCoin_Crowdsale_Results/Working_functions_2.png)
 
 ## KaseiCoin Contract Compiled
 
